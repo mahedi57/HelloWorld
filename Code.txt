@@ -7,3 +7,8 @@ if(a/2)
 {
 System.out.Println("Fani Gone");
 }
+else
+{
+  System.out.Println("Sun is Coming with new Version 2.0");
+}
+return 0;

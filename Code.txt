@@ -1,5 +1,9 @@
 Welcome to Hello World
 
 {
-System.out.Println("Hello Fani")
+System.out.Println("Hello Fani");
+}
+if(a/2)
+{
+System.out.Println("Fani Gone");
 }
